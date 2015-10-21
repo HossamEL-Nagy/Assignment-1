@@ -16,7 +16,7 @@ class Person {
 		Person(const string & ln, const char * fn = "Heyyou")
 		{
 			int n = strlen(fn);
-			if(n >= LIMIT) // check for char array size
+			if(n >= LIMIT)
 			{
 				n = LIMIT - 1;
 			}

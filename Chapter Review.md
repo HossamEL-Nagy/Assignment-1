@@ -46,3 +46,4 @@ A10 :
 this --> pointer to the direct object
 
 *this --> pointer to a clone of the object
+
